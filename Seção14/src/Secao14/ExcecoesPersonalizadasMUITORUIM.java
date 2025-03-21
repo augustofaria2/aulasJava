@@ -52,7 +52,6 @@ public class ExcecoesPersonalizadasMUITORUIM {
 				System.out.println("Reserva: " + reservation);
 			}
 		}
-		
 		sc.close();
 	}
 }
